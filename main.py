@@ -221,4 +221,4 @@ async def Tambola(ctx):
 
 
 # token 
-Bot.run("MTA5MTI1OTg4MzI1NDQ1NjQyMg.G2TQHr.wMUbgWNn8sxsPTjJR1oM-5tleiGYvyhfj1fySE")
+Bot.run("token")
